@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CafeIt
 - 👀 I’m interested in cloud and AI.
 - 🌱 I’m currently working as Cloud Engineer such as DevOps.
-- 💞️ I’m looking to collaborate on AI driven Senior Cloud Engineer.
+- 💞️ I’m chasing to become one AI driven Senior Cloud Engineer.
 - 📫 How to reach me ...
 
 <!---
